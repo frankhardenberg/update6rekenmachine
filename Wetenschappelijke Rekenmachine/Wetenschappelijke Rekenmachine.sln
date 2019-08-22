@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wetenschappelijke Rekenmachine", "Wetenschappelijke Rekenmachine.csproj", "{4DA3901A-0080-42CF-916C-883C6045395F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA3901A-0080-42CF-916C-883C6045395F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA3901A-0080-42CF-916C-883C6045395F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA3901A-0080-42CF-916C-883C6045395F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA3901A-0080-42CF-916C-883C6045395F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C6FAF75-9AF1-4229-9A5F-39477072D573}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<Application x:Class="Wetenschappelijke_Rekenmachine.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Wetenschappelijke_Rekenmachine"
+             StartupUri="Calculator.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
